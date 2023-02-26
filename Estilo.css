@@ -1,0 +1,40 @@
+div {
+    
+    background-color: rgb(192, 197, 195);
+    text-align: left;
+  }
+
+#Main-container {
+   background-color: aquamarine;
+   margin: 100px auto;
+   width: 300px auto; 
+}
+
+table {
+  text-align: left ;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+}
+
+th {
+  background-color: darkolivegreen;
+  color: white;
+
+}
+
+tr:nth-child(odd) {
+  background-color: rgba(213, 223, 241, 0.822);
+
+}
+
+tr:hover  {
+  background-color: #369681;
+  color: white;
+}
+
+H1 {
+  text-align: center;
+}
